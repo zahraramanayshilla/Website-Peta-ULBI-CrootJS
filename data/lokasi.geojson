@@ -1,0 +1,350 @@
+{
+  "type": "FeatureCollection",
+  "name": "Titik lokasi kawasan ULBI",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Ulbi": "Gerbang",
+        "id": "LOC-01",
+        "nama": "Gerbang",
+        "sumber": "Point asli dari GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.575705,
+          -6.874517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "IRC": "Informatic Reserch Center",
+        "marker-color": "rgba(47, 130, 61, 1)",
+        "id": "LOC-02",
+        "nama": "Informatics Research Center",
+        "sumber": "Point asli dari GeoJSON yang diberikan",
+        "nama_google_maps": "Informatics Research Center",
+        "keterangan": "Nama disesuaikan dengan label yang terlihat pada tangkapan layar Google Maps pengguna; posisi perlu dicocokkan kembali di peta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.575315,
+          -6.873394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "rgba(125, 130, 47, 1)",
+        "id": "LOC-03",
+        "nama": "UKM Musik ULBI",
+        "sumber": "Point asli dari GeoJSON yang diberikan",
+        "nama_google_maps": "UKM Musik ULBI",
+        "keterangan": "Nama disesuaikan dengan label yang terlihat pada tangkapan layar Google Maps pengguna; posisi perlu dicocokkan kembali di peta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.575925,
+          -6.87292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Transportasi ulbi": "FLTB ulbi",
+        "id": "LOC-04",
+        "nama": "Transportasi ULBI",
+        "sumber": "Point asli dari GeoJSON yang diberikan",
+        "nama_google_maps": "Transportasi ULBI",
+        "keterangan": "Nama disesuaikan dengan label yang terlihat pada tangkapan layar Google Maps pengguna; posisi perlu dicocokkan kembali di peta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.576351,
+          -6.872923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Himatif": "Sekre",
+        "marker-color": "rgba(130, 47, 47, 1)",
+        "id": "LOC-05",
+        "nama": "Sekretariat GEMP AR ULBI",
+        "sumber": "Point asli dari GeoJSON yang diberikan",
+        "nama_google_maps": "Sekretariat GEMP AR ULBI",
+        "keterangan": "Nama disesuaikan dengan label yang terlihat pada tangkapan layar Google Maps pengguna; posisi perlu dicocokkan kembali di peta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.575151,
+          -6.873486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pos": "POS yayasan",
+        "id": "LOC-06",
+        "nama": "POS Yayasan",
+        "sumber": "Point asli dari GeoJSON yang diberikan",
+        "nama_google_maps": "POS Yayasan",
+        "keterangan": "Nama disesuaikan dengan label yang terlihat pada tangkapan layar Google Maps pengguna; posisi perlu dicocokkan kembali di peta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.576126,
+          -6.873574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "rgba(104, 47, 130, 1)",
+        "": "Cafe",
+        "Cafe": "Logic coffe",
+        "id": "LOC-07",
+        "nama": "Logic Coffee",
+        "sumber": "Point asli dari GeoJSON yang diberikan",
+        "nama_google_maps": "Logic Coffee",
+        "keterangan": "Nama disesuaikan dengan label yang terlihat pada tangkapan layar Google Maps pengguna; posisi perlu dicocokkan kembali di peta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.576031,
+          -6.873806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-08",
+        "nama": "PRV B35",
+        "sumber": "Point asli dari GeoJSON yang diberikan",
+        "nama_google_maps": "PRV B35",
+        "keterangan": "Nama disesuaikan dengan label yang terlihat pada tangkapan layar Google Maps pengguna; posisi perlu dicocokkan kembali di peta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5753832,
+          -6.8724254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-09",
+        "nama": "PRV B39",
+        "sumber": "Point asli dari GeoJSON yang diberikan",
+        "nama_google_maps": "PRV B39",
+        "keterangan": "Nama disesuaikan dengan label yang terlihat pada tangkapan layar Google Maps pengguna; posisi perlu dicocokkan kembali di peta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5755091,
+          -6.8722025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-10",
+        "nama": "VILLA 3 CEMARA",
+        "sumber": "Point asli dari GeoJSON yang diberikan",
+        "nama_google_maps": "VILLA 3 CEMARA",
+        "keterangan": "Nama disesuaikan dengan label yang terlihat pada tangkapan layar Google Maps pengguna; posisi perlu dicocokkan kembali di peta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5755967,
+          -6.8723112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-11",
+        "nama": "Sekretariat MPM STIMLOG",
+        "sumber": "Point asli dari GeoJSON yang diberikan",
+        "nama_google_maps": "Sekretariat MPM STIMLOG",
+        "keterangan": "Nama disesuaikan dengan label yang terlihat pada tangkapan layar Google Maps pengguna; posisi perlu dicocokkan kembali di peta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5755913,
+          -6.8727135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-12",
+        "nama": "Western Union",
+        "sumber": "Point asli dari GeoJSON yang diberikan",
+        "nama_google_maps": "Western Union",
+        "keterangan": "Nama disesuaikan dengan label yang terlihat pada tangkapan layar Google Maps pengguna; posisi perlu dicocokkan kembali di peta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5752792,
+          -6.8738551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-13",
+        "nama": "Sekolah Tinggi Manajemen Logistik",
+        "sumber": "Point asli dari GeoJSON yang diberikan",
+        "nama_google_maps": "Sekolah Tinggi Manajemen Logistik",
+        "keterangan": "Nama disesuaikan dengan label yang terlihat pada tangkapan layar Google Maps pengguna; posisi perlu dicocokkan kembali di peta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5759089,
+          -6.8741922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-14",
+        "nama": "Fakultas Teknologi",
+        "sumber": "Point asli dari GeoJSON yang diberikan",
+        "nama_google_maps": "Fakultas Teknologi",
+        "keterangan": "Nama disesuaikan dengan label yang terlihat pada tangkapan layar Google Maps pengguna; posisi perlu dicocokkan kembali di peta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5760293,
+          -6.8740182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-15",
+        "nama": "Bandung",
+        "sumber": "Point asli dari GeoJSON yang diberikan",
+        "nama_google_maps": "Bandung",
+        "keterangan": "Nama disesuaikan dengan label yang terlihat pada tangkapan layar Google Maps pengguna; posisi perlu dicocokkan kembali di peta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5761334,
+          -6.8740998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-16",
+        "nama": "Titik pusat bangunan 16",
+        "keterangan": "Titik turunan dari pusat poligon GeoJSON asli; bukan POI terverifikasi.",
+        "sumber": "Dihitung dari koordinat poligon pada file yang diberikan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5751119,
+          -6.8737844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-17",
+        "nama": "Titik pusat bangunan 17",
+        "keterangan": "Titik turunan dari pusat poligon GeoJSON asli; bukan POI terverifikasi.",
+        "sumber": "Dihitung dari koordinat poligon pada file yang diberikan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5752954,
+          -6.8738884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-18",
+        "nama": "Titik pusat bangunan 18",
+        "keterangan": "Titik turunan dari pusat poligon GeoJSON asli; bukan POI terverifikasi.",
+        "sumber": "Dihitung dari koordinat poligon pada file yang diberikan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5750839,
+          -6.8739062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-19",
+        "nama": "Titik pusat bangunan 19",
+        "keterangan": "Titik turunan dari pusat poligon GeoJSON asli; bukan POI terverifikasi.",
+        "sumber": "Dihitung dari koordinat poligon pada file yang diberikan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5760404,
+          -6.873124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-20",
+        "nama": "Titik pusat bangunan 20",
+        "keterangan": "Titik turunan dari pusat poligon GeoJSON asli; bukan POI terverifikasi.",
+        "sumber": "Dihitung dari koordinat poligon pada file yang diberikan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.575963,
+          -6.8728262
+        ]
+      }
+    }
+  ]
+}

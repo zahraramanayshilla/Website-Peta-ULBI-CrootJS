@@ -1,0 +1,538 @@
+{
+  "type": "FeatureCollection",
+  "name": "Jalan dan jalur kawasan ULBI",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-01",
+        "nama": "jalan ke FLTB - Segmen 1",
+        "sumber": "Segmen 1 dari jalur LineString ke-1 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.575686,
+            -6.87446
+          ],
+          [
+            107.575729,
+            -6.874149
+          ],
+          [
+            107.57576,
+            -6.873949
+          ],
+          [
+            107.575891,
+            -6.873984
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-02",
+        "nama": "jalan ke FLTB - Segmen 2",
+        "sumber": "Segmen 2 dari jalur LineString ke-1 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.575891,
+            -6.873984
+          ],
+          [
+            107.576085,
+            -6.873845
+          ],
+          [
+            107.576352,
+            -6.873668
+          ],
+          [
+            107.576418,
+            -6.873503
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-03",
+        "nama": "jalan ke FLTB - Segmen 3",
+        "sumber": "Segmen 3 dari jalur LineString ke-1 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.576418,
+            -6.873503
+          ],
+          [
+            107.576463,
+            -6.873167
+          ],
+          [
+            107.576473,
+            -6.873044
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-04",
+        "nama": "jalan ke FLTB - Segmen 4",
+        "sumber": "Segmen 4 dari jalur LineString ke-1 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.576473,
+            -6.873044
+          ],
+          [
+            107.576069,
+            -6.87298
+          ],
+          [
+            107.575908,
+            -6.872994
+          ],
+          [
+            107.575867,
+            -6.873208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-05",
+        "nama": "Jalur kawasan ULBI 02 - Segmen 1",
+        "sumber": "Segmen 1 dari jalur LineString ke-2 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5753897,
+            -6.8739984
+          ],
+          [
+            107.5755261,
+            -6.8740201
+          ],
+          [
+            107.575548,
+            -6.8739225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-06",
+        "nama": "Jalur kawasan ULBI 02 - Segmen 2",
+        "sumber": "Segmen 2 dari jalur LineString ke-2 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.575548,
+            -6.8739225
+          ],
+          [
+            107.5753953,
+            -6.8738129
+          ],
+          [
+            107.5752218,
+            -6.8737778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-07",
+        "nama": "Jalur kawasan ULBI 03 - Segmen 1",
+        "sumber": "Segmen 1 dari jalur LineString ke-3 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5760282,
+            -6.8725904
+          ],
+          [
+            107.575775,
+            -6.8724752
+          ],
+          [
+            107.5756308,
+            -6.8724508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-08",
+        "nama": "Jalur kawasan ULBI 03 - Segmen 2",
+        "sumber": "Segmen 2 dari jalur LineString ke-3 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5756308,
+            -6.8724508
+          ],
+          [
+            107.575578,
+            -6.8724997
+          ],
+          [
+            107.5753916,
+            -6.8725939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-09",
+        "nama": "Jalur kawasan ULBI 03 - Segmen 3",
+        "sumber": "Segmen 3 dari jalur LineString ke-3 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5753916,
+            -6.8725939
+          ],
+          [
+            107.5753037,
+            -6.8729711
+          ],
+          [
+            107.5753283,
+            -6.8731387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-10",
+        "nama": "Jalur kawasan ULBI 03 - Segmen 4",
+        "sumber": "Segmen 4 dari jalur LineString ke-3 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5753283,
+            -6.8731387
+          ],
+          [
+            107.57568,
+            -6.8731806
+          ],
+          [
+            107.5758559,
+            -6.8732015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-11",
+        "nama": "Jalur kawasan ULBI 04 - Segmen 1",
+        "sumber": "Segmen 1 dari jalur LineString ke-4 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5765312,
+            -6.8730095
+          ],
+          [
+            107.5766123,
+            -6.8729921
+          ],
+          [
+            107.5766334,
+            -6.8728664
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-12",
+        "nama": "Jalur kawasan ULBI 04 - Segmen 2",
+        "sumber": "Segmen 2 dari jalur LineString ke-4 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5766334,
+            -6.8728664
+          ],
+          [
+            107.5767002,
+            -6.8724509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-13",
+        "nama": "Jalur kawasan ULBI 04 - Segmen 3",
+        "sumber": "Segmen 3 dari jalur LineString ke-4 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5767002,
+            -6.8724509
+          ],
+          [
+            107.5764927,
+            -6.8724194
+          ],
+          [
+            107.5763098,
+            -6.8722972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-14",
+        "nama": "Jalur kawasan ULBI 05 - Segmen 1",
+        "sumber": "Segmen 1 dari jalur LineString ke-5 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5753777,
+            -6.8723391
+          ],
+          [
+            107.5755008,
+            -6.8720842
+          ],
+          [
+            107.5759827,
+            -6.8722693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-15",
+        "nama": "Jalur kawasan ULBI 05 - Segmen 2",
+        "sumber": "Segmen 2 dari jalur LineString ke-5 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5759827,
+            -6.8722693
+          ],
+          [
+            107.5760917,
+            -6.8722553
+          ],
+          [
+            107.5761656,
+            -6.8721156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-16",
+        "nama": "Jalur kawasan ULBI 06 - Segmen 1",
+        "sumber": "Segmen 1 dari jalur LineString ke-6 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5752163,
+            -6.8737777
+          ],
+          [
+            107.5752346,
+            -6.8736411
+          ],
+          [
+            107.5753202,
+            -6.873632
+          ],
+          [
+            107.5754793,
+            -6.8736411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-17",
+        "nama": "Jalur kawasan ULBI 06 - Segmen 2",
+        "sumber": "Segmen 2 dari jalur LineString ke-6 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5754793,
+            -6.8736411
+          ],
+          [
+            107.5757392,
+            -6.8736684
+          ],
+          [
+            107.5758772,
+            -6.8736681
+          ],
+          [
+            107.5758986,
+            -6.8734677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-18",
+        "nama": "Jalur kawasan ULBI 06 - Segmen 3",
+        "sumber": "Segmen 3 dari jalur LineString ke-6 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5758986,
+            -6.8734677
+          ],
+          [
+            107.57592,
+            -6.8732461
+          ],
+          [
+            107.5760943,
+            -6.8732582
+          ],
+          [
+            107.5761616,
+            -6.873155
+          ],
+          [
+            107.5762258,
+            -6.8731034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-19",
+        "nama": "Jalur kawasan ULBI 06 - Segmen 4",
+        "sumber": "Segmen 4 dari jalur LineString ke-6 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5762258,
+            -6.8731034
+          ],
+          [
+            107.5763084,
+            -6.8730973
+          ],
+          [
+            107.5763817,
+            -6.8731186
+          ],
+          [
+            107.5763879,
+            -6.8732036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JLN-20",
+        "nama": "Jalur kawasan ULBI 06 - Segmen 5",
+        "sumber": "Segmen 5 dari jalur LineString ke-6 pada GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5763879,
+            -6.8732036
+          ],
+          [
+            107.5763634,
+            -6.8732886
+          ],
+          [
+            107.5763634,
+            -6.8733736
+          ],
+          [
+            107.5763389,
+            -6.873404
+          ]
+        ]
+      }
+    }
+  ]
+}

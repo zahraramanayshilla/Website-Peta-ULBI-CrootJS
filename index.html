@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Peta interaktif GeoJSON menggunakan CrootJS.">
+  <title>Peta GeoJSON | CrootJS</title>
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="main.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand-mark">G</div>
+    <div>
+      <p class="eyebrow">GEOJSON EXPLORER</p>
+      <h1>Peta Kawasan Kampus ULBI</h1>
+    </div>
+    <div class="topbar-note">Dibuat dengan CrootJS</div>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar">
+      <section class="intro">
+        <p class="eyebrow">DASHBOARD PETA</p>
+        <h2>Jelajahi kawasan ULBI</h2>
+        <p class="muted">Pilih lapisan untuk menampilkan jalan, bangunan, atau titik lokasi pada peta.</p>
+      </section>
+
+      <section class="stats" aria-label="Jumlah objek GeoJSON">
+        <article class="stat-card road-stat"><span class="stat-symbol">╱</span><span class="stat-number" id="road-count">20</span><span class="stat-label">Polyline jalan</span></article>
+        <article class="stat-card building-stat"><span class="stat-symbol">▧</span><span class="stat-number" id="building-count">27</span><span class="stat-label">Polygon bangunan</span></article>
+        <article class="stat-card point-stat"><span class="stat-symbol">●</span><span class="stat-number" id="point-count">20</span><span class="stat-label">Point lokasi</span></article>
+      </section>
+
+      <section class="panel">
+        <div class="panel-heading">
+          <h3>Lapisan peta</h3>
+          <span class="live-dot"></span>
+        </div>
+        <label class="layer-row">
+          <span class="layer-icon road-icon">╱</span>
+          <span class="layer-copy"><strong>Jalan</strong><small>20 garis jalan</small></span>
+          <input type="checkbox" id="toggle-roads" checked>
+        </label>
+        <label class="layer-row">
+          <span class="layer-icon building-icon">▧</span>
+          <span class="layer-copy"><strong>Bangunan</strong><small>27 area bangunan</small></span>
+          <input type="checkbox" id="toggle-buildings" checked>
+        </label>
+        <label class="layer-row">
+          <span class="layer-icon point-icon">●</span>
+          <span class="layer-copy"><strong>Lokasi</strong><small>20 titik lokasi</small></span>
+          <input type="checkbox" id="toggle-points" checked>
+        </label>
+      </section>
+
+      <section class="panel info-panel">
+        <h3>Petunjuk penggunaan</h3>
+        <ul>
+          <li>Geser peta dengan mouse atau jari.</li>
+          <li>Gunakan tombol + dan − untuk zoom.</li>
+          <li>Klik objek GeoJSON untuk melihat atributnya.</li>
+        </ul>
+      </section>
+
+      <div class="data-note">
+        <strong>Catatan data</strong>
+        <p>Data berasal dari GeoJSON yang kamu kirim. Enam jalur asli dipecah menjadi 20 segmen tanpa mengubah koordinat jalurnya; 27 poligon asli dipertahankan; 15 titik asli ditambah 5 titik pusat poligon. Lima titik tambahan bukan POI terverifikasi.</p>
+      </div>
+      <a class="source-link" href="https://croot.js.org/" target="_blank" rel="noreferrer">Dokumentasi CrootJS ↗</a>
+    </aside>
+
+    <section class="map-section">
+      <div class="map-toolbar">
+        <div><span class="map-status"></span><strong>Peta interaktif</strong><span class="map-subtitle">GeoJSON • OpenStreetMap tiles</span></div>
+        <button id="fit-button" type="button">Tampilkan semua data</button>
+      </div>
+      <div id="map" class="map" role="application" aria-label="Peta interaktif dengan lapisan GeoJSON"></div>
+      <div class="map-footer">
+        <span><i class="legend-line"></i> Jalan</span>
+        <span><i class="legend-building"></i> Bangunan</span>
+        <span><i class="legend-point"></i> Lokasi</span>
+        <span class="map-footer-note">© OpenStreetMap contributors</span>
+      </div>
+    </section>
+  </main>
+  <footer class="footer">Peta GeoJSON • HTML, CSS, JavaScript ES Module • CrootJS map.js</footer>
+</body>
+</html>

@@ -1,0 +1,1071 @@
+{
+  "type": "FeatureCollection",
+  "name": "Bangunan kawasan ULBI",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Kantor": "Kantor pos bandung",
+        "id": "BGN-01",
+        "nama": "Kantor pos bandung",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.576023,
+              -6.873286
+            ],
+            [
+              107.575968,
+              -6.873662
+            ],
+            [
+              107.57621,
+              -6.873711
+            ],
+            [
+              107.576279,
+              -6.873318
+            ],
+            [
+              107.576023,
+              -6.873286
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gedung": "Rektorat",
+        "fill": "rgba(47, 130, 78, 1)",
+        "id": "BGN-02",
+        "nama": "Rektorat",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.575532,
+              -6.873683
+            ],
+            [
+              107.575508,
+              -6.873867
+            ],
+            [
+              107.575818,
+              -6.873925
+            ],
+            [
+              107.575849,
+              -6.873751
+            ],
+            [
+              107.575532,
+              -6.873683
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "rgba(113, 47, 130, 1)",
+        "Gedung": "Vokasi",
+        "id": "BGN-03",
+        "nama": "Vokasi",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.575252,
+              -6.873214
+            ],
+            [
+              107.575222,
+              -6.87358
+            ],
+            [
+              107.575787,
+              -6.873624
+            ],
+            [
+              107.575811,
+              -6.873255
+            ],
+            [
+              107.575252,
+              -6.873214
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "rgba(130, 47, 71, 1)",
+        "Gedung": "Audit",
+        "id": "BGN-04",
+        "nama": "Audit",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.57551,
+              -6.872552
+            ],
+            [
+              107.575463,
+              -6.873021
+            ],
+            [
+              107.575837,
+              -6.873057
+            ],
+            [
+              107.575888,
+              -6.872595
+            ],
+            [
+              107.57551,
+              -6.872552
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Student centre": "sekretariat",
+        "fill": "rgba(130, 122, 47, 1)",
+        "id": "BGN-05",
+        "nama": "sekretariat",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.575175,
+              -6.873198
+            ],
+            [
+              107.575167,
+              -6.873251
+            ],
+            [
+              107.575149,
+              -6.8734
+            ],
+            [
+              107.575139,
+              -6.873453
+            ],
+            [
+              107.57513,
+              -6.87346
+            ],
+            [
+              107.575127,
+              -6.873502
+            ],
+            [
+              107.575131,
+              -6.873512
+            ],
+            [
+              107.575118,
+              -6.873586
+            ],
+            [
+              107.575172,
+              -6.873592
+            ],
+            [
+              107.575186,
+              -6.873524
+            ],
+            [
+              107.575199,
+              -6.873512
+            ],
+            [
+              107.5752,
+              -6.873463
+            ],
+            [
+              107.575177,
+              -6.873458
+            ],
+            [
+              107.575185,
+              -6.873408
+            ],
+            [
+              107.575209,
+              -6.87341
+            ],
+            [
+              107.575228,
+              -6.873258
+            ],
+            [
+              107.575212,
+              -6.873253
+            ],
+            [
+              107.575216,
+              -6.873201
+            ],
+            [
+              107.575175,
+              -6.873198
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gedung  ": "FLTB",
+        "fill": "rgba(0, 0, 0, 1)",
+        "id": "BGN-06",
+        "nama": "FLTB",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.576164,
+              -6.872483
+            ],
+            [
+              107.576093,
+              -6.872944
+            ],
+            [
+              107.576441,
+              -6.873004
+            ],
+            [
+              107.576519,
+              -6.872537
+            ],
+            [
+              107.576164,
+              -6.872483
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Masjid": "masjid",
+        "id": "BGN-07",
+        "nama": "masjid",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.575903,
+              -6.872878
+            ],
+            [
+              107.575891,
+              -6.872945
+            ],
+            [
+              107.575956,
+              -6.872948
+            ],
+            [
+              107.575973,
+              -6.872888
+            ],
+            [
+              107.575903,
+              -6.872878
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-08",
+        "nama": "Area bangunan kampus ULBI 08",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.575034,
+              -6.8737409
+            ],
+            [
+              107.575195,
+              -6.8737492
+            ],
+            [
+              107.5751875,
+              -6.8738261
+            ],
+            [
+              107.575031,
+              -6.8738216
+            ],
+            [
+              107.575034,
+              -6.8737409
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-09",
+        "nama": "Area bangunan kampus ULBI 09",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5751849,
+              -6.8738303
+            ],
+            [
+              107.575417,
+              -6.8738587
+            ],
+            [
+              107.5754058,
+              -6.8739501
+            ],
+            [
+              107.5751737,
+              -6.8739146
+            ],
+            [
+              107.5751849,
+              -6.8738303
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-10",
+        "nama": "Area bangunan kampus ULBI 10",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5750172,
+              -6.8738496
+            ],
+            [
+              107.5751593,
+              -6.8738689
+            ],
+            [
+              107.5751471,
+              -6.8739633
+            ],
+            [
+              107.5750121,
+              -6.873943
+            ],
+            [
+              107.5750172,
+              -6.8738496
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-11",
+        "nama": "Area bangunan kampus ULBI 11",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5760348,
+              -6.87307
+            ],
+            [
+              107.5761063,
+              -6.8730846
+            ],
+            [
+              107.576099,
+              -6.8732028
+            ],
+            [
+              107.5759818,
+              -6.8731919
+            ],
+            [
+              107.5759909,
+              -6.8730955
+            ],
+            [
+              107.5760294,
+              -6.8730991
+            ],
+            [
+              107.5760348,
+              -6.87307
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-12",
+        "nama": "Area bangunan kampus ULBI 12",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5759357,
+              -6.8727638
+            ],
+            [
+              107.5760387,
+              -6.8727957
+            ],
+            [
+              107.5760151,
+              -6.8728906
+            ],
+            [
+              107.5759089,
+              -6.8728607
+            ],
+            [
+              107.5759164,
+              -6.8728202
+            ],
+            [
+              107.5759357,
+              -6.8727638
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-13",
+        "nama": "Area bangunan kampus ULBI 13",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5760123,
+              -6.8726382
+            ],
+            [
+              107.5761073,
+              -6.8726776
+            ],
+            [
+              107.5760624,
+              -6.8727667
+            ],
+            [
+              107.5759706,
+              -6.8727283
+            ],
+            [
+              107.5760123,
+              -6.8726382
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-14",
+        "nama": "Area bangunan kampus ULBI 14",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5753224,
+              -6.8723726
+            ],
+            [
+              107.5754856,
+              -6.8724367
+            ],
+            [
+              107.5754804,
+              -6.8724688
+            ],
+            [
+              107.5755008,
+              -6.8724789
+            ],
+            [
+              107.5754923,
+              -6.8725194
+            ],
+            [
+              107.5754532,
+              -6.8725093
+            ],
+            [
+              107.5754532,
+              -6.8725177
+            ],
+            [
+              107.5753122,
+              -6.8724569
+            ],
+            [
+              107.5752986,
+              -6.8724519
+            ],
+            [
+              107.5753224,
+              -6.8723726
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-15",
+        "nama": "Area bangunan kampus ULBI 15",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5759761,
+              -6.8723378
+            ],
+            [
+              107.5760809,
+              -6.8724302
+            ],
+            [
+              107.5760527,
+              -6.8725333
+            ],
+            [
+              107.5759436,
+              -6.8724896
+            ],
+            [
+              107.5759761,
+              -6.8723378
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-16",
+        "nama": "Area bangunan kampus ULBI 16",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.575486,
+              -6.8721767
+            ],
+            [
+              107.575581,
+              -6.8722151
+            ],
+            [
+              107.5755282,
+              -6.8723042
+            ],
+            [
+              107.5754384,
+              -6.8722605
+            ],
+            [
+              107.575486,
+              -6.8721767
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-17",
+        "nama": "Area bangunan kampus ULBI 17",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5758895,
+              -6.8741243
+            ],
+            [
+              107.5759817,
+              -6.8741453
+            ],
+            [
+              107.5759553,
+              -6.8742959
+            ],
+            [
+              107.5758571,
+              -6.8742854
+            ],
+            [
+              107.5758895,
+              -6.8741243
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-18",
+        "nama": "Area bangunan kampus ULBI 18",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5759523,
+              -6.8740125
+            ],
+            [
+              107.5760822,
+              -6.8740335
+            ],
+            [
+              107.5760641,
+              -6.8741415
+            ],
+            [
+              107.5759372,
+              -6.8741205
+            ],
+            [
+              107.5759523,
+              -6.8740125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-19",
+        "nama": "Area bangunan kampus ULBI 19",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5761275,
+              -6.8740665
+            ],
+            [
+              107.5762001,
+              -6.8740904
+            ],
+            [
+              107.5761639,
+              -6.8741639
+            ],
+            [
+              107.5760974,
+              -6.8741474
+            ],
+            [
+              107.5761275,
+              -6.8740665
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-20",
+        "nama": "Area bangunan kampus ULBI 20",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5751759,
+              -6.8739893
+            ],
+            [
+              107.575344,
+              -6.8740143
+            ],
+            [
+              107.5753337,
+              -6.874086
+            ],
+            [
+              107.5751656,
+              -6.8740693
+            ],
+            [
+              107.5751759,
+              -6.8739893
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-21",
+        "nama": "Area bangunan kampus ULBI 21",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5756146,
+              -6.8722351
+            ],
+            [
+              107.5756793,
+              -6.8722598
+            ],
+            [
+              107.575607,
+              -6.8724098
+            ],
+            [
+              107.5755498,
+              -6.8723787
+            ],
+            [
+              107.5756146,
+              -6.8722351
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-22",
+        "nama": "Area bangunan kampus ULBI 22",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5754193,
+              -6.872277
+            ],
+            [
+              107.5755347,
+              -6.872322
+            ],
+            [
+              107.5755088,
+              -6.8723927
+            ],
+            [
+              107.5753955,
+              -6.872352
+            ],
+            [
+              107.5754193,
+              -6.872277
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-23",
+        "nama": "Area bangunan kampus ULBI 23",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5757042,
+              -6.8722705
+            ],
+            [
+              107.5757484,
+              -6.8722823
+            ],
+            [
+              107.5757203,
+              -6.8723777
+            ],
+            [
+              107.5756804,
+              -6.872367
+            ],
+            [
+              107.5757042,
+              -6.8722705
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-24",
+        "nama": "Area bangunan kampus ULBI 24",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5757635,
+              -6.872322
+            ],
+            [
+              107.5758293,
+              -6.872352
+            ],
+            [
+              107.5757991,
+              -6.8724291
+            ],
+            [
+              107.5757311,
+              -6.8724002
+            ],
+            [
+              107.5757635,
+              -6.872322
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-25",
+        "nama": "Area bangunan kampus ULBI 25",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5758659,
+              -6.87234
+            ],
+            [
+              107.5759437,
+              -6.872389
+            ],
+            [
+              107.5758934,
+              -6.87248
+            ],
+            [
+              107.5758144,
+              -6.8724347
+            ],
+            [
+              107.5758659,
+              -6.87234
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-26",
+        "nama": "Area bangunan kampus ULBI 26",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.576207,
+              -6.8732002
+            ],
+            [
+              107.5762515,
+              -6.8732084
+            ],
+            [
+              107.5762459,
+              -6.8732415
+            ],
+            [
+              107.5761959,
+              -6.8732291
+            ],
+            [
+              107.576207,
+              -6.8732002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BGN-27",
+        "nama": "Area bangunan kampus ULBI 27",
+        "sumber": "Poligon asli dari GeoJSON yang diberikan",
+        "keterangan_nama": "Label deskriptif; nama resmi bangunan belum terkonfirmasi dari tangkapan layar."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5763224,
+              -6.873461
+            ],
+            [
+              107.5763836,
+              -6.873472
+            ],
+            [
+              107.5763724,
+              -6.8735148
+            ],
+            [
+              107.5763141,
+              -6.8735038
+            ],
+            [
+              107.5763224,
+              -6.873461
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
